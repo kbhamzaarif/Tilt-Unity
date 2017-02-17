@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8517B902-FA0F-AF2B-48C1-37ED371682CB}") = "TiltUnity", "Assembly-CSharp.csproj", "{40601C1A-26D9-C615-03AC-212587DDEAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40601C1A-26D9-C615-03AC-212587DDEAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40601C1A-26D9-C615-03AC-212587DDEAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40601C1A-26D9-C615-03AC-212587DDEAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40601C1A-26D9-C615-03AC-212587DDEAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
